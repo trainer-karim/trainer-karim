@@ -2,7 +2,7 @@
 - 👀 I’m interested in all Cloud Native topics.
 - 🌱 I’m  still learning more Cloud Native topics.
 - 💞️ I’m looking forward to sharing my knowldge with you.
-- 📫 You can reach me in kbenzidane@stonedoorgroup.com
+- 📫 You can reach me at kbenzidane@stonedoorgroup.com
 
 
 <!---
