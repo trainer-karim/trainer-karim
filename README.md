@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Karim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Karim !!!
+- 👀 I’m interested in all Cloud Native topics.
+- 🌱 I’m  still learning more Cloud Native topics.
+- 💞️ I’m looking forward to sharing my knowldge with you.
+- 📫 You can reach me in kbenzidane@stonedoorgroup.com
+
 
 <!---
 trainer-karim/trainer-karim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
